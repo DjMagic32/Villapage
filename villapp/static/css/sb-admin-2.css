@@ -10837,9 +10837,8 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("/villapp/static/img/FB_IMG_15964378578793369.jpg");
-  background-position: center;
-  background-size: cover;
+  position: center;
+  size: cover;
 }
 
 .bg-register-image {
